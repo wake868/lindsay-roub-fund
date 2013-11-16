@@ -35,7 +35,7 @@ body{background:url(../img/bg.jpg) repeat;}
 	LOGO
 \*------------------------------------*/
 
-#logo, #logo img{display:block;width:200px; height:100px;}
+#logo, #logo img{display:block;width:300px; height:100px;}
 #logo{float: left; background:url(../img/logo.png) top center no-repeat; position: relative; margin: 0; z-index: 120; display: inline; /* fixes IE6 margin bug */}
 #logo img{position:absolute; left:-99999px;}
 
